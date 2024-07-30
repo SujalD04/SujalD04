@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding, Graphic designing, Game Development.
 - 🌱 I’m currently learning Full-Stack Web Development.
 - 💞️ I’m looking to collaborate on upcoming projects based from multiple domains.
-- 📫 How to reach me via LinkedIn - https://www.linkedin.com/in/sujal-dixit-595287269/
+- 📫 Reach me via LinkedIn - https://www.linkedin.com/in/sujal-dixit-595287269/
 - 😄 Pronouns: He/Him
 
 <!---
