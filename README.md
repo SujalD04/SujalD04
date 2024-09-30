@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Full-Stack Web Development.
 - 💞️ I’m looking to collaborate on upcoming projects based from multiple domains.
 - 📫 Reach me via LinkedIn - https://www.linkedin.com/in/sujal-dixit-595287269/
-- 😄 Pronouns: He/Him
 
 <!---
 SujalD04/SujalD04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
