@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! I'm Sujal Dixit, a 21 year-old developer pursuing my Integrated M.Tech in Computer Science Engineering at VIT Vellore.<br>I'm passionate about building scalable, user-friendly applications and always eager to explore new technologies. 📧 Email: sujalrdixit@gmail.com<br>🔗 LinkedIn - https://www.linkedin.com/in/sujal-dixit-595287269<br>🌐 Portfolio - https://sujal-portfolio-psi.vercel.app/
+Hey! I'm Sujal Dixit, a 21 year-old developer pursuing my Integrated M.Tech in Computer Science Engineering at VIT Vellore.<br>I'm passionate about building scalable, user-friendly applications and always eager to explore new technologies.<br> 📧 Email: sujalrdixit@gmail.com<br>🔗 LinkedIn - https://www.linkedin.com/in/sujal-dixit-595287269<br>🌐 Portfolio - https://sujal-portfolio-psi.vercel.app/
 
 
 ## 🌐 Socials:
